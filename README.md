@@ -1,4 +1,4 @@
-=====================================================================================================
+====================
 # **capacitacao_de_python**
 
 Este é um projeto de uma multicalculadora O programa permite que o usuário faça cálculos envolvendo as quatro operações matemáticas; calcule o troco a ser recebido ao realizar uma compra; calcule a resistência obtida ao usar vários resistores juntos, seja em sértie ou paralelo.
