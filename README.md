@@ -1,9 +1,9 @@
-==================================================================================================================
+=====================================================================================================
 # **capacitacao_de_python**
 
 Este é um projeto de uma multicalculadora O programa permite que o usuário faça cálculos envolvendo as quatro operações matemáticas; calcule o troco a ser recebido ao realizar uma compra; calcule a resistência obtida ao usar vários resistores juntos, seja em sértie ou paralelo.
 
-==================================================================================================================
+=====================================================================================================
 
 **Estruturação do código**
 
@@ -15,7 +15,7 @@ Este é um projeto de uma multicalculadora O programa permite que o usuário fa�
 
 • main.py (responsável pelo menu e pelo loop principal)
 
-==================================================================================================================
+=====================================================================================================
 **funcionameno**
 
 • Menu:
@@ -33,4 +33,4 @@ Para utilizar a calculadora de resistência o usuário deve informar o tipo da m
 • (0) sair:
 Ao escolher essa opção o programa exibe uma mensagem de encerramento e fecha.
 
-==================================================================================================================
+=====================================================================================================
